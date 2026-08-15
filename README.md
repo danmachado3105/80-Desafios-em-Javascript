@@ -1,6 +1,6 @@
 # 80 Desafios de JavaScript — Alura
 
-Progresso: 30 / 80
+Progresso: 40 / 80
 
 Cada arquivo dentro de `desafios/` é independente e pode ser rodado com:
 
@@ -40,3 +40,13 @@ node desafios/01-boas-vindas-personalizadas.js
 - [x] 28 - Listando números pares
 - [x] 29 - Contar múltiplos de 3 entre 1 e 100
 - [x] 30 - Menu com repetição
+- [x] 31 - Função de saudação
+- [x] 32 - Função com parâmetros
+- [x] 33 - Cálculo de IMC
+- [x] 34 - Verificar aprovação
+- [x] 35 - Número par ou ímpar
+- [x] 36 - Função soma
+- [x] 37 - Reutilizando código (calcularTroco)
+- [x] 38 - Arrow function
+- [x] 39 - Callback simples
+- [x] 40 - Desafio do quiz
