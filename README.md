@@ -1,6 +1,8 @@
 # 80 Desafios de JavaScript — Alura
 
-Progresso: 70 / 80
+Projeto de estudos com 80 desafios de JavaScript puro, feitos através de um curso da Alura, com o objetivo de praticar desde os conceitos básicos (variáveis, operadores, laços) até recursos mais modernos da linguagem (ES6+, destructuring, spread/rest, funções construtoras).
+
+Progresso: 80 / 80 🎉
 
 Cada arquivo dentro de `desafios/` é independente e pode ser rodado com:
 
@@ -80,3 +82,13 @@ node desafios/01-boas-vindas-personalizadas.js
 - [x] 68 - Modularização com export/import (2 arquivos: `68-modularizacao-somar.js` e `68-modularizacao-uso.js`)
 - [x] 69 - Objeto com função construtora
 - [x] 70 - Método no objeto
+- [x] 71 - Inverter uma string
+- [x] 72 - Verificar palíndromo
+- [x] 73 - Maior número de um array
+- [x] 74 - Contar vogais em uma frase
+- [x] 75 - Conversor de temperatura (Celsius para Fahrenheit)
+- [x] 76 - Verificar número primo
+- [x] 77 - Ordenar array de números
+- [x] 78 - Remover duplicados de um array
+- [x] 79 - Calculadora simples com switch
+- [x] 80 - Gerador de senha aleatória simples
