@@ -1,6 +1,6 @@
 # 80 Desafios de JavaScript — Alura
 
-Progresso: 40 / 80
+Progresso: 70 / 80
 
 Cada arquivo dentro de `desafios/` é independente e pode ser rodado com:
 
@@ -50,3 +50,33 @@ node desafios/01-boas-vindas-personalizadas.js
 - [x] 38 - Arrow function
 - [x] 39 - Callback simples
 - [x] 40 - Desafio do quiz
+- [x] 41 - Lista de nomes
+- [x] 42 - Adicionar e remover itens
+- [x] 43 - Contar itens do array
+- [x] 44 - Somar todos os números
+- [x] 45 - Média de notas (array)
+- [x] 46 - Mensagens personalizadas com forEach
+- [x] 47 - Descontos com map
+- [x] 48 - Filtrar valores altos
+- [x] 49 - Simulando carrinho de compras
+- [x] 50 - Lista de tarefas
+- [x] 51 - Criando um objeto pessoal
+- [x] 52 - Acessando propriedades
+- [x] 53 - Atualizando valores
+- [x] 54 - Adicionando uma nova propriedade
+- [x] 55 - Função com objeto
+- [x] 56 - Lista de pessoas
+- [x] 57 - Filtrando maiores de idade
+- [x] 58 - Objeto com método
+- [x] 59 - Listando propriedades com for...in
+- [x] 60 - Cálculo de compra
+- [x] 61 - Destructuring em objetos
+- [x] 62 - Destructuring em arrays
+- [x] 63 - Rest operator em função
+- [x] 64 - Spread operator com arrays
+- [x] 65 - Spread operator com objetos
+- [x] 66 - Função com parâmetro default
+- [x] 67 - Trabalhando com datas
+- [x] 68 - Modularização com export/import (2 arquivos: `68-modularizacao-somar.js` e `68-modularizacao-uso.js`)
+- [x] 69 - Objeto com função construtora
+- [x] 70 - Método no objeto
